@@ -1,3 +1,9 @@
+ # Lista de Contactos
+
+Posible ejercicio en entrevista técnica.
+Pequeña lista de contactos, que permite agregar, borrar, cambiar estado (conectado / no conectado).
+Usando bootstrap y bootstrap-icons.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
